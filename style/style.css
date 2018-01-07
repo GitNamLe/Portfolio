@@ -1,0 +1,27 @@
+.row {
+    text-align: center;
+}
+
+.about-header {
+    text-align: center;
+}
+
+.footer-bottom {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+    text-align: center;
+    color: #9d9d9d;
+}
+
+.center{
+    position: absolute;
+    top: 39%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+#fa-size{
+    font-size: 5vw;
+}
